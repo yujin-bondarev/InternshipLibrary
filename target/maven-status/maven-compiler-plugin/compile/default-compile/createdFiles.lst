@@ -1,0 +1,5 @@
+com\example\bookStorageService\controllers\BookController.class
+com\example\bookTrackerService\repositories\BookTrackerRepository.class
+com\example\bookTrackerService\model\BookTracker.class
+com\example\App.class
+com\example\bookStorageService\model\Book.class

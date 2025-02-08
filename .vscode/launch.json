@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-App<library>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.App",
+            "projectName": "library",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
